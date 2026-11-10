@@ -9,6 +9,18 @@ Tutors sign up, manage their students, create invoices, track payments, and send
 
 **[🚀 Live Demo](https://invoicing-app-lemon.vercel.app/)**
 
+## About This Repository
+
+This is a **source-available portfolio excerpt**. The full implementation lives in a private repository to keep the IP clean.
+
+If you'd like to see the complete codebase, I'm happy to:
+
+- Walk through any part of it live during an interview, or
+- Grant read access to the private repo after an initial conversation.
+
+Just reach out: [sami.adnandev@gmail.com](mailto:sami.adnandev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adnan-sami-3ab549220/)
+
+
 **Stack:** Next.js 16 (App Router) · TypeScript · Tailwind CSS · Clerk · Neon (Postgres) · Resend · Vercel
 
 ---
