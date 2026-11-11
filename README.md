@@ -52,7 +52,7 @@ Existing tools are built for agencies and franchises: CRMs, marketing automation
 - **Invoice creation:** amount, description, due date, and status (pending / paid)
 - **Mark as paid:** one-click status update with timestamp
 - **Delete invoice:** scoped to the tutor, with confirmation
-- **Send invoice via email:** Resend + React Email templates
+- **Send invoice via email:** Brevo API
 - **Dashboard stats:** total earned, pending amount, invoices paid
 - **Light/dark mode:** CSS variables + `localStorage` + no-flash inline script
 - **Raw SQL migrations:** version-controlled, no ORM
