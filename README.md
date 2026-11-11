@@ -182,10 +182,9 @@ The `replyTo` field points to the tutor's email, so if a student replies, it goe
 ## What I'd Do Differently
 
 1. **Add the `ensureTutor` fallback from day one.** Hitting the foreign key error taught me why it exists, but I'd rather have written it first.
-2. **Start with a domain.** Testing email with `onboarding@resend.dev` works, but a verified domain unlocks real deliverability and makes the app look production-ready.
-3. **Add a webhook for `user.created`.** The lazy sync works, but a webhook would let me send a welcome email and build an admin dashboard.
-4. **Write integration tests for the Server Actions.** I tested manually, but a test suite would catch regressions when I refactor.
-5. **Add rate limiting to the email action.** Right now, a tutor could spam a student's inbox. A simple "1 email per invoice per hour" check would prevent abuse.
+2. **Add a webhook for `user.created`.** The lazy sync works, but a webhook would let me send a welcome email and build an admin dashboard.
+3. **Write integration tests for the Server Actions.** I tested manually, but a test suite would catch regressions when I refactor.
+4. **Add rate limiting to the email action.** Right now, a tutor could spam a student's inbox. A simple "1 email per invoice per hour" check would prevent abuse.
 
 ---
 
