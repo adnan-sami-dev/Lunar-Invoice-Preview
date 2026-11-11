@@ -21,7 +21,7 @@ If you'd like to see the complete codebase, I'm happy to:
 Just reach out: [sami.adnandev@gmail.com](mailto:sami.adnandev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adnan-sami-3ab549220/)
 
 
-**Stack:** Next.js 16 (App Router) · TypeScript · Tailwind CSS · Clerk · Neon (Postgres) · Resend · Vercel
+**Stack:** Next.js 16 (App Router) · TypeScript · Tailwind CSS · Clerk · Neon (Postgres) · Brevo · Vercel
 
 ---
 
